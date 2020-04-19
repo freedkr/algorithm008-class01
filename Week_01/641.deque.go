@@ -2,6 +2,7 @@ package Week_01
 
 /*
 双端队列：允许两端都可以入队出队的队列
+数组实现
 TODO GetRear
 */
 type MyCircularDeque struct {
